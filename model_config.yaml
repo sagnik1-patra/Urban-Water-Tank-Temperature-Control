@@ -1,0 +1,7 @@
+layers:
+- 64
+- 32
+- 1
+loss: mse
+model: ANN
+optimizer: adam

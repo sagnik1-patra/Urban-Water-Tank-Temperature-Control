@@ -1,0 +1,16 @@
+{
+    "train_rmse": 22.60673360242418,
+    "test_rmse": 25.75491441695144,
+    "train_r2": 0.428101605827536,
+    "test_r2": 0.738985024616599,
+    "selected_features": [
+        "seconds saved ",
+        "weighted seconds saved",
+        "weighted minutes saved (per single, one-way trip)"
+    ],
+    "pso_feature_weights": [
+        1.3268742553136288,
+        0.49305213026785943,
+        1.2450067597483243
+    ]
+}

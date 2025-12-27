@@ -1,0 +1,17 @@
+{
+    "train_rmse": 7.388432371167357,
+    "test_rmse": 10.798436230105814,
+    "train_r2": 0.9389131334285822,
+    "test_r2": 0.9541154011918216,
+    "selected_features": [
+        "destination",
+        "length (km)",
+        "tourism sites",
+        "seconds saved ",
+        "weighted seconds saved",
+        "weighted minutes saved (per single, one-way trip)"
+    ],
+    "units_layer1": 128,
+    "units_layer2": 64,
+    "batch_size": 8
+}

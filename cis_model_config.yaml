@@ -1,0 +1,15 @@
+batch_size: 8
+layer1_units: 64
+layer2_units: 32
+selected_features:
+- origin
+- length (km)
+- tourism sites
+- original speed (7-day traffic mean)
+- minutes saved (per single, one-way trip)
+- weighted seconds saved
+- improvement efficiency (min/length)
+test_r2: 0.974521461769114
+test_rmse: 8.04664149369147
+train_r2: 0.9143395447865337
+train_rmse: 8.74920448795544
